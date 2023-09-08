@@ -1,7 +1,7 @@
 
 # (New) Dancing Plates
 
-This was the final project for my beginner programming class in college. It's a remake of the Atari 2600 game "Dishaster", with addded features, using the Allegro5 library.
+This was the final project for my beginner programming class in college. It's a remake of the Atari 2600 game "Dishaster", with addded features, using the Allegro5 library. The code was entirely written by me.
 
 <p align="center">
   <img src="https://github.com/matp30/dancing-plates/blob/323d4918cb7e9ec5c16753c89fe1a56a06f59abd/game_files/title.png" />
