@@ -10,7 +10,7 @@ This was the final project for my beginner programming class in college. It's a 
 
 ## How to Install
 
-Start by installing the Allegro 5 library.
+Start by installing Allegro5.
 ```bash
 apt-get install liballegro5-dev
 ```
@@ -46,3 +46,9 @@ Navigate the menu with the arrow keys. Use SPACE to confirm, and ESC to cancel.
 <p align="center">
   <img src="https://github.com/matp30/dancing-plates/blob/e13a99abcf848276ebade1c88d02510867e75f6f/images/screenshot-1.png" />
 </p>
+
+## Acknowledgements
+
+The font used for displaying numbers and other small messages is Upheaval, by Brian Kent.
+All other assets were made by me in Aseprite.
+
