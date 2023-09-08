@@ -18,4 +18,6 @@ Finally, run the game with:
 ./tp
 ```
 
-![](https://github.com/matp30/dancing-plates/blob/e5b2b78a2e54c1cc45abd49e69eb0dd5678f1881/images/completehunt.gif)
+<p align="center">
+  <img src="https://github.com/matp30/dancing-plates/blob/e5b2b78a2e54c1cc45abd49e69eb0dd5678f1881/images/completehunt.gif" />
+</p>
