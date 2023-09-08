@@ -32,7 +32,7 @@ Finally, run the game with:
 Move the player character with the W and A keys. Don't let the spinning plates fall! Stabilize them with the S key, or catch them in midair if need be. When a plate hits the ground, you lose.
 
 <p align="center">
-  <img src="https://github.com/matp30/dancing-plates/blob/e5b2b78a2e54c1cc45abd49e69eb0dd5678f1881/images/completehunt.gif" />
+  <img src="https://github.com/matp30/dancing-plates/blob/e13a99abcf848276ebade1c88d02510867e75f6f/images/screenshot-2.png" />
 </p>
 
 Currently available features:
@@ -44,5 +44,5 @@ Currently available features:
 Navigate the menu with the arrow keys. Use SPACE to confirm, and ESC to cancel.
 
 <p align="center">
-  <img src="https://github.com/matp30/dancing-plates/blob/e5b2b78a2e54c1cc45abd49e69eb0dd5678f1881/images/completehunt.gif" />
+  <img src="https://github.com/matp30/dancing-plates/blob/e13a99abcf848276ebade1c88d02510867e75f6f/images/screenshot-1.png" />
 </p>
