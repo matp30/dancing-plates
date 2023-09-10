@@ -31,7 +31,7 @@ Move the player character with the W and A keys. Don't let the spinning plates f
   <img src="https://github.com/matp30/dancing-plates/blob/e13a99abcf848276ebade1c88d02510867e75f6f/images/screenshot-2.png" />
 </p>
 
-Currently available features:
+Available features:
 - Local co-op
 - Three difficulty levels
 - Remappable controls
